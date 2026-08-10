@@ -182,6 +182,6 @@ XTools tidak meminta data pribadi apa pun dan tidak menampilkan iklan pihak keti
 
 <div align="center">
 
-Dibuat dengan ❤️ oleh [**Hakysa08**](https://github.com/Hakysa08)
+Dibuat oleh [**Hakysa08**](https://github.com/Hakysa08)
 
 </div>
