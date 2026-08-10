@@ -1,0 +1,28 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+
+storage/
+samples/
+*.tsbuildinfo
+next-env.d.ts
+
+.env
+.env.local
+.env*.local
+
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# Berkas panduan agen yang dibuat otomatis oleh Next.js
+AGENTS.md
+
+# Tesseract language data, downloaded on first OCR run.
+*.traineddata
+
+# Konfigurasi internal pengembangan (tidak untuk publik)
+.XTools/
